@@ -1,0 +1,16 @@
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\bin\Debug\net7.0-windows\metthodproje.exe
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\bin\Debug\net7.0-windows\metthodproje.deps.json
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\bin\Debug\net7.0-windows\metthodproje.runtimeconfig.json
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\bin\Debug\net7.0-windows\metthodproje.dll
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\bin\Debug\net7.0-windows\metthodproje.pdb
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.Form1.resources
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.csproj.GenerateResource.cache
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.AssemblyInfoInputs.cache
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.AssemblyInfo.cs
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.csproj.CoreCompileInputs.cache
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.dll
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\refint\metthodproje.dll
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.pdb
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\metthodproje.genruntimeconfig.cache
+C:\Users\yagmu\OneDrive\Desktop\metthodproje\metthodproje\obj\Debug\net7.0-windows\ref\metthodproje.dll
